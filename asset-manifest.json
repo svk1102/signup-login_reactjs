@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/signup-login_reactjs/static/css/main.8b20bd1b.chunk.css",
+    "main.js": "/signup-login_reactjs/static/js/main.86d68e6d.chunk.js",
+    "main.js.map": "/signup-login_reactjs/static/js/main.86d68e6d.chunk.js.map",
+    "runtime-main.js": "/signup-login_reactjs/static/js/runtime-main.9366ae18.js",
+    "runtime-main.js.map": "/signup-login_reactjs/static/js/runtime-main.9366ae18.js.map",
+    "static/js/2.eb233097.chunk.js": "/signup-login_reactjs/static/js/2.eb233097.chunk.js",
+    "static/js/2.eb233097.chunk.js.map": "/signup-login_reactjs/static/js/2.eb233097.chunk.js.map",
+    "static/js/3.fd894e28.chunk.js": "/signup-login_reactjs/static/js/3.fd894e28.chunk.js",
+    "static/js/3.fd894e28.chunk.js.map": "/signup-login_reactjs/static/js/3.fd894e28.chunk.js.map",
+    "index.html": "/signup-login_reactjs/index.html",
+    "static/css/main.8b20bd1b.chunk.css.map": "/signup-login_reactjs/static/css/main.8b20bd1b.chunk.css.map",
+    "static/js/2.eb233097.chunk.js.LICENSE.txt": "/signup-login_reactjs/static/js/2.eb233097.chunk.js.LICENSE.txt",
+    "static/media/facial.130aa15e.svg": "/signup-login_reactjs/static/media/facial.130aa15e.svg",
+    "static/media/logo.6ce24c58.svg": "/signup-login_reactjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9366ae18.js",
+    "static/js/2.eb233097.chunk.js",
+    "static/css/main.8b20bd1b.chunk.css",
+    "static/js/main.86d68e6d.chunk.js"
+  ]
+}
